@@ -1,0 +1,37 @@
+﻿  GameScene.cpp
+D:\권수현\sosujungong\게임 예제\Engine\Engine\Object.h(53,11): warning C4244: '=': 'PX'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              PX=int
+          ]
+D:\권수현\sosujungong\게임 예제\Engine\Engine\GameScene.cpp(18): message : 컴파일되는 함수 템플릿 인스턴스화 'void Object::setPos<int,int>(PX,PY)'에 대한 참조를 확인하세요.
+          with
+          [
+              PX=int,
+              PY=int
+          ]
+D:\권수현\sosujungong\게임 예제\Engine\Engine\Object.h(54,11): warning C4244: '=': 'PY'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              PY=int
+          ]
+  MainScene.cpp
+D:\권수현\sosujungong\게임 예제\Engine\Engine\Object.h(53,11): warning C4244: '=': 'PX'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              PX=int
+          ]
+D:\권수현\sosujungong\게임 예제\Engine\Engine\MainScene.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'void Object::setPos<int,int>(PX,PY)'에 대한 참조를 확인하세요.
+          with
+          [
+              PX=int,
+              PY=int
+          ]
+D:\권수현\sosujungong\게임 예제\Engine\Engine\Object.h(54,11): warning C4244: '=': 'PY'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              PY=int
+          ]
+  main.cpp
+  코드를 생성하고 있습니다...
+  Engine.vcxproj -> D:\권수현\sosujungong\게임 예제\Engine\Debug\Engine.exe
